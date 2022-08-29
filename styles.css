@@ -55,3 +55,18 @@ body {
     color: hsl(220, 15%, 55%);
 
 }
+
+@media (max-width: 300px) { 
+    
+    .container {
+
+        width: 100%;
+        
+    }
+
+    .qr-image {
+
+        width: 100%;
+
+    }
+}
