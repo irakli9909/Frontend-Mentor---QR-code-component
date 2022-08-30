@@ -21,7 +21,7 @@ main {
     flex-direction: column;
     justify-content: center; 
     align-items: center;
-    width: 250px;
+    max-width: 250px;
     height: 400px;
     padding: 20px;
     font-family: 'Outfit', sans-serif;
@@ -31,9 +31,8 @@ main {
 
 .qr-image {
 
-    width: 260px;
+    max-width: 260px;
     height: 260px;
-    
     border-radius: 10px;
 
 
